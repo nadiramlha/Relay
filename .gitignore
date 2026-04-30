@@ -1,0 +1,26 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Go
+backend/relay-backend
+backend/*.exe
+
+# Node / npm
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
