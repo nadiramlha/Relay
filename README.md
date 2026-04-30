@@ -45,7 +45,7 @@ A modern AI-powered webchat application built with **Go**, **React**, **PostgreS
 
 ### Prerequisites
 
-- [Go 1.22+](https://go.dev/dl/)
+- [Go 1.25+](https://go.dev/dl/)
 - [Node.js 20+](https://nodejs.org/)
 - A [Supabase](https://supabase.com/) project **or** any PostgreSQL 15+ instance
 - An [OpenAI API key](https://platform.openai.com/api-keys)

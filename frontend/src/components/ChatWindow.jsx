@@ -50,7 +50,6 @@ export default function ChatWindow({ messages, loading, onSend, onToggleSidebar,
             <div ref={bottomRef} />
           </div>
         )}
-        {!isEmpty && <div ref={bottomRef} />}
       </div>
 
       {/* Input */}
